@@ -1,0 +1,24 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "A simple terminal tetris game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'There is no tests yet.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbellott/node_tetris.git"
+  },
+  "keywords": [
+    "tetris",
+    "game",
+    "node"
+  ],
+  "author": "Frank Bellotto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbellott/node_tetris/issues"
+  },
+  "homepage": "https://github.com/fbellott/node_tetris#readme"
+}
